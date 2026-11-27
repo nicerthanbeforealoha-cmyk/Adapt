@@ -1,1 +1,1 @@
-# Adapt
+this is an bot that autoplays games for you I design it to be universal hence its name but I've come to the conclusion that it'll impossible so I did my best on making it auto play chess support 8x8 board and possibly in the future more support.(mobile only) # Adapt
